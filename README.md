@@ -14,7 +14,7 @@ I am working on my procedural generation engine. And I decided to share some sha
 
 ------------------------------------
 
-### Leaf:
+### Leaf Shaders:
 - Diffuse, LOD, Shadow, Optimized
 - Specular, Normalmap, LOD, Shadow, Optimized
 - Specular, NormalMap, OcclusionMap, LOD, Shadow, Optimized
@@ -23,7 +23,7 @@ I am working on my procedural generation engine. And I decided to share some sha
 
 ================================
 
-### Branch:
+### Branch Shaders:
 - Diffuse, LOD, Shadow, Optimized
 - Specular, Normalmap, LOD, Shadow, Optimized
 - Specular, NormalMap, OcclusionMap, LOD, Shadow, Optimized
