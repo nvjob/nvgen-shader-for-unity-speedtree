@@ -15,30 +15,20 @@ I am working on my procedural generation engine. And I decided to share some sha
 ------------------------------------
 
 ### Leaf:
-
-Diffuse, LOD, Shadow, Optimized
-
-Specular, Normalmap, LOD, Shadow, Optimized
-
-Specular, NormalMap, OcclusionMap, LOD, Shadow, Optimized
-
-Specular, Normalmap, Reflection, LOD, Shadow, Optimized
-
-Specular, NormalMap, Reflection, OcclusionMap, LOD, Shadow, Optimized
+- Diffuse, LOD, Shadow, Optimized
+- Specular, Normalmap, LOD, Shadow, Optimized
+- Specular, NormalMap, OcclusionMap, LOD, Shadow, Optimized
+- Specular, Normalmap, Reflection, LOD, Shadow, Optimized
+- Specular, NormalMap, Reflection, OcclusionMap, LOD, Shadow, Optimized
 
 ================================
 
 ### Branch:
-
-Diffuse, LOD, Shadow, Optimized
-
-Specular, Normalmap, LOD, Shadow, Optimized
-
-Specular, NormalMap, OcclusionMap, LOD, Shadow, Optimized
-
-Specular, Normalmap, Reflection, LOD, Shadow, Optimized
-
-Specular, NormalMap, Reflection, OcclusionMap, LOD, Shadow, Optimized
+- Diffuse, LOD, Shadow, Optimized
+- Specular, Normalmap, LOD, Shadow, Optimized
+- Specular, NormalMap, OcclusionMap, LOD, Shadow, Optimized
+- Specular, Normalmap, Reflection, LOD, Shadow, Optimized
+- Specular, NormalMap, Reflection, OcclusionMap, LOD, Shadow, Optimized
 
 ------------------------------------
 
