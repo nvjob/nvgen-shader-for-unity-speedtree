@@ -1,14 +1,16 @@
 # NVGen Shader for Unity SpeedTree. Fast and customized.
 
-NVGen Shader for Unity SpeedTree. Fast and customized. 
+NVGen Shader for Unity SpeedTree. Fast and customized.
 
-This shader package is only suitable for trees SpeedTree. 
-Billboards are not supported. In the package 10 shaders. 
+This shader package is only suitable for trees SpeedTree.
+
+Billboards are not supported. In the package 10 shaders.
+
 Version 1.0.1 
 
 https://www.youtube.com/watch?v=9_OsYHBC458
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+------------------------------------
 
 In the package 10 shaders.
 
