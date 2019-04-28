@@ -4,6 +4,7 @@ This shader package is only suitable for trees SpeedTree. Billboards are not sup
 
 Version 1.0.2
 
+https://www.youtube.com/watch?v=tEr3SMhJSxw
 https://www.youtube.com/watch?v=9_OsYHBC458
 
 I am working on my procedural generation engine. And I decided to share some shaders. This is not the end result, the work is still underway, but in spite of this, the shaders are completely working and can be used.
