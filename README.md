@@ -4,9 +4,6 @@ This shader package is only suitable for trees SpeedTree. Billboards are not sup
 
 Version 1.0.2
 
-https://www.youtube.com/watch?v=tEr3SMhJSxw
-https://www.youtube.com/watch?v=9_OsYHBC458
-
 I am working on my procedural generation engine. And I decided to share some shaders. This is not the end result, the work is still underway, but in spite of this, the shaders are completely working and can be used.
 
 ![GitHub Logo](https://lh3.googleusercontent.com/24GfFXFND6b_Xv3pg6sDDTwvKl62AXcUMPx5VtYme_cUnoj2m97i4ay7UowwkqrZHMgeIFFAgzX3MXQbiBLhdsVkbb0FJVZGA1l-VJDkoD1IKq9iDJJzvao7maLLDiGLfIvUEqDpFJubMwiQheRKPZutfVNg8GHuPeMAmo34p8gzYApE4rxd6CAQ68c2-UHVLLAFjqqfewZ4_zSJ1lworFLiBxuJPPZQe8FwXT_9cGnB4iAQEumSp3o9qO0rRqqgobiW5IJIfg1c2_b8gXPgDiBOCTg_fnbx71tj9LI7o7nbvbT3evN3Nj37LzhfzoDf6HUryM3ERAtqewFAXExPurO9pYowulYemfe5O_AFxcuq778FxcSDNSgks4jz8Jign4gcn5tsqUXqf_vEb2CJAK7S3hVfCxWX-7UFJ-2Pt5z9r3mFdLkCE5LGC07eyivPe7rx6gi7KDzf3RUcr6dfH09Q_5Bsw_svrwaciLJJRx38H6MDW2r8atsERII0esIL8fU_bxDWUShTG6CNPMtLAcW-ZrkTskJFVKAhlh0MxM7A0Dxtad-NhkHEhFAHGFpXeeQf0uHJOCPaUWYedqZuiD2qH-7F3_0oWoJcTW58CPz_5_SDa81h9-oTGSJ0oFfbR38wfyoIPuQziUYTCSFwetAItb_aDcFYCSa0rn-e2BZbLaMWpVJfg7oveed4Ar9UxeRsG1y5vdxJeAQPzMpf7tV8=w1178-h792-no)
@@ -30,6 +27,12 @@ I am working on my procedural generation engine. And I decided to share some sha
 - Specular, NormalMap, OcclusionMap, LOD, Shadow, Optimized
 - Specular, Normalmap, Reflection, LOD, Shadow, Optimized
 - Specular, NormalMap, Reflection, OcclusionMap, LOD, Shadow, Optimized
+
+------------------------------------
+
+https://www.youtube.com/watch?v=tEr3SMhJSxw
+
+https://www.youtube.com/watch?v=9_OsYHBC458
 
 ------------------------------------
 
