@@ -1,8 +1,6 @@
-# NVGen Shader for Unity SpeedTree. Fast and customized.
+# NVGen Shader for Unity SpeedTree (STC). Customization of wind and other parameters of the shader.
 
-This shader package is only suitable for trees SpeedTree. Billboards are not supported. In the package 10 shaders.
-
-Version 1.0.2
+Version 2.0
 
 I am working on my procedural generation engine. And I decided to share some shaders. This is not the end result, the work is still underway, but in spite of this, the shaders are completely working and can be used.
 
