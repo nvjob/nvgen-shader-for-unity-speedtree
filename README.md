@@ -1,4 +1,4 @@
-# NVJOB Shader for Unity SpeedTree (STC). Customization of wind and other parameters of the shader.
+# #NVJOB Shader for Unity SpeedTree (STC). Customization of wind and other parameters of the shader.
 
 Version 2.0
 
