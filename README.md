@@ -23,10 +23,10 @@ https://www.youtube.com/watch?v=W4OgqjHZVzo
 ------------------------------------
 
 ### Authors
-Designed by #NVJOB Nicholas Veselov | https://nvjob.pro | http://nvjob.dx.am | https://twitter.com/nvjob
+Designed by #NVJOB Nicholas Veselov | https://nvjob.github.io | http://nvjob.dx.am | https://twitter.com/nvjob
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details
 
 ### Donate
-You can thank me by a voluntary donation. https://nvjob.pro/donations.html
+You can thank me by a voluntary donation. https://nvjob.github.io/donations.html
