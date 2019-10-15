@@ -6,7 +6,7 @@ The new version of the shader STC V2.0. Now all types of geometry are supported,
 
 https://www.youtube.com/watch?v=W4OgqjHZVzo
 
-![GitHub Logo](https://lh3.googleusercontent.com/SNbpME3eyEiFwCyVNlRNDvoQewUjWEpV5bKULQ4nlfBxeYndSEy6qVvjvh04FIrd_v1yZQtPxLr7TYJ9p8dxbPdjD9VNW9Yq5y5eOzLIib4vO4zmHr_uBWKnrDpxZeEgXDwXKen51QFDTysoYzqPqJWdd6yrvADdPe1MrEzhmPlt62zx6Lwz2pDpGWR2_NLLZA3XpyCYFgoIz5WYsZyn5v7W-9xpfIx9THJeN9toFJoFKfUghC5Ljak0_U_F0V2tI9jRN2JyKbpQfmhQQ7f0A7WAVHjtOaMVz1yi7nrKpnKQ1ecxefonhC2--w_aWfq4flV2BUPubCC-l4spvZymOy2vH6v1AYniziWuGPkRIyOLqA8jK6FFGpf4qiMmwuKnqnM8S-leVt_pQ05NIS3aNVgZJAO3R4ySyGwWpici38Awj0k1WWOGbBjwRi6h_eMGOc-iHEmxac0hHFuZ6LUuEqFrs80wyCb__S-TEgKcNHOiPBnsAucZDN-R9RnJ4C0uVy2LFFEFbw3i_uaOWIhpsYAe49O7gbydmGAsSqbbLCQLG04W4sTb9xjO3QKt0dwL1SexFYmq4eK5wZpEosxDB-lGb9zvuuXQgOmw3Oiq_5DWwYD05woD_jrBrqVy6PJHGNLxgksEk5aTgq2_Kubu_inZ8tD1JlDWVZZRzMIIG7iINKqgaqLQrOzb68QrCaa0kFovxZNCvSQRL2vaMSOEOpKx=w1567-h913-no)
+![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/stc/20/pic/4.jpg)
 
 ### Shader features:
 - Complete customization of the wind.
