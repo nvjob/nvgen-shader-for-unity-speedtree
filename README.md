@@ -4,6 +4,7 @@ Version 2.0
 
 The new version of the shader STC V2.0. Now all types of geometry are supported, including billboards. Billboards can also be customized.
 
+https://www.youtube.com/watch?v=ALo3AYyVWcY <br>
 https://www.youtube.com/watch?v=W4OgqjHZVzo
 
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/stc/20/pic/4.jpg)
