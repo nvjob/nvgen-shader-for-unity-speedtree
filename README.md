@@ -9,7 +9,6 @@ The new version of the shader STC V2.0. Now all types of geometry are supported,
 -------------------------------------------------------------------
 
 ### Prerequisites
-
 To work on the project, you will need a Unity version of at least 2019.1.0 (64-bit).
 
 ### Information
@@ -24,8 +23,8 @@ To work on the project, you will need a Unity version of at least 2019.1.0 (64-b
 - Adjust the color, brightness and contrast.
 
 #### Video manual:
-https://www.youtube.com/watch?v=ALo3AYyVWcY <br>
-https://www.youtube.com/watch?v=W4OgqjHZVzo
+https://www.youtube.com/watch?v=W4OgqjHZVzo <br>
+https://www.youtube.com/watch?v=ALo3AYyVWcY
 
 -------------------------------------------------------------------
 
