@@ -1,9 +1,8 @@
 # #NVJOB Shader for Unity SpeedTree (STC). Old, Legacy.
-#### [nvjob.github.io/unity/nvjob-stc](https://nvjob.github.io/unity/nvjob-stc)
 
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/stc/20/pic/4.jpg)
 
-
+This is an old version of the shader. This shader will no longer be supported and updated.
 
 
 -------------------------------------------------------------------
