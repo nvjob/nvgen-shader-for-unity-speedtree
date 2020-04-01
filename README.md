@@ -4,6 +4,8 @@
 
 This is an old version of the shader. This shader will no longer be supported and updated.
 
+**New versions:**
+#NVJOB Shader for Unity SpeedTree 7 (STC7) - [nvjob.github.io/unity/nvjob-stc-7](https://nvjob.github.io/unity/nvjob-stc-7)
 
 -------------------------------------------------------------------
 
