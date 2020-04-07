@@ -6,6 +6,7 @@
 
 **New versions:**<br>
 [#NVJOB Shader for Unity SpeedTree 7 (STC7)](https://nvjob.github.io/unity/nvjob-stc-7)
+[#NVJOB Shader for Unity SpeedTree 8 (STC8)](https://nvjob.github.io/unity/nvjob-stc-8)
 
 -------------------------------------------------------------------
 
