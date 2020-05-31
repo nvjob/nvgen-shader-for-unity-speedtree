@@ -1,24 +1,31 @@
 # #NVJOB Shader for Unity SpeedTree. Old, Legacy.
 
-![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/stc/20/pic/4.jpg)
+This is an old version of the shader. This shader will no longer be supported and updated. Use the new version.
 
-<em>This is an old version of the shader. This shader will no longer be supported and updated. Use the new version.</em>
+### New versions:
 
-**New versions:**<br>
 [#NVJOB STC8 (Advanced Shader for Unity SpeedTree 7)](https://nvjob.github.io/unity/nvjob-stc-7)<br>
 [#NVJOB STC8 (Advanced Shader for Unity SpeedTree 8)](https://nvjob.github.io/unity/nvjob-stc-8)<br>
 [#NVJOB STC8 Pro (Advanced Shader for Unity SpeedTree 8, Vegetation Studio Pro)](https://nvjob.github.io/unity/nvjob-stc-8-pro)<br>
-[#NVJOB STC8 Toon (Advanced Toon Shader for Unity SpeedTree 8, Vegetation Studio Pro))](https://nvjob.github.io/unity/nvjob-stc-8-toon)<br>
+[#NVJOB STC8 Toon (Advanced Toon Shader for Unity SpeedTree 8, Vegetation Studio Pro))](https://nvjob.github.io/unity/nvjob-stc-8-toon)
+
+### Compatibility
+
+Built-in Render Pipeline.<br>
+For Unity version of at least 2019.1.8 (64-bit).
 
 -------------------------------------------------------------------
 
-**Patrons:** [nvjob.github.io/patrons](https://nvjob.github.io/patrons)<br>
-*You can become one of the patrons, or make a sponsorship donation.*
+**Authors:** <br>
+[#NVJOB. Nicholas Veselov Unity Developer.](https://nvjob.github.io)<br>
+[Николай Веселов Unity Разработчик Санкт-Петербург.](https://nvjob.github.io)
+
+**License:** <br>
+[MIT License. Clarification of licenses.](https://nvjob.github.io/mit-license)
+
+**Support:** <br>
+[Report a Problem.](https://nvjob.github.io/reportaproblem/)
 
 -------------------------------------------------------------------
 
-**Authors:** [#NVJOB. Developer Nicholas Veselov. Разработчик Николай Веселов. Санкт-Петербург.](https://nvjob.github.io)
-
-**License:** MIT License. [Clarification of licenses](https://nvjob.github.io/mit-license).
-
-**Support:** [Report a Problem](https://nvjob.github.io/reportaproblem/).
+![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/stc/20/pic/4.jpg)
