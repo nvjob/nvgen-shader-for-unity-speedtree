@@ -5,8 +5,10 @@
 <em>This is an old version of the shader. This shader will no longer be supported and updated. Use the new version.</em>
 
 **New versions:**<br>
-[#NVJOB STC7 (Custom shader for Unity SpeedTree 7)](https://nvjob.github.io/unity/nvjob-stc-7)<br>
-[#NVJOB STC8 (Custom shader for Unity SpeedTree 8)](https://nvjob.github.io/unity/nvjob-stc-8)
+[#NVJOB STC8 (Advanced Shader for Unity SpeedTree 7)](https://nvjob.github.io/unity/nvjob-stc-7)<br>
+[#NVJOB STC8 (Advanced Shader for Unity SpeedTree 8)](https://nvjob.github.io/unity/nvjob-stc-8)<br>
+[#NVJOB STC8 Pro (Advanced Shader for Unity SpeedTree 8, Vegetation Studio Pro)](https://nvjob.github.io/unity/nvjob-stc-8-pro)<br>
+[#NVJOB STC8 Toon (Advanced Toon Shader for Unity SpeedTree 8, Vegetation Studio Pro))](https://nvjob.github.io/unity/nvjob-stc-8-toon)<br>
 
 -------------------------------------------------------------------
 
