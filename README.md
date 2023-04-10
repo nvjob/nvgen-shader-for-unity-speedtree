@@ -21,8 +21,7 @@ For Unity version of at least 2019.1.8 (64-bit).
 **License:** <br>
 [MIT License. Clarification of licenses.](https://nvjob.github.io/mit-license)
 
-**🖤 Donate:** <br>
-[paypal.me/nvjob](https://paypal.me/nvjob)
+**🖤 Donate:** [paypal.me/nvjob](https://paypal.me/nvjob)
 
 -------------------------------------------------------------------
 
